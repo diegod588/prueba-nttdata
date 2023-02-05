@@ -1,0 +1,1 @@
+INSERT INTO tbl_clientes (id,numero_documento,tipo_documento,primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,telefono,direccion,ciudad_residencia) VALUES (1,23445322,'céduladeciudadanía','Diego','Mauricio','Duque','Bohorquez','3008094221','Cra24g#24-24','Bogota');
